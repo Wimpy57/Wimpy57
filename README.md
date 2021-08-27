@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Wimpy57/Wimpy57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪶 I'm a beginner android developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+I've studied such programming languages as:
+<ul>
+  <li>Python <i>(discrod.py)</i></li>
+  <li>Java <i>(android)</i></li>
+  <li>Kotlin <i>(android)</i> <strong>using currently</strong></li>
+</ul>
+<br/>
+Links:
+<ul>
+  <li>Vk: <a href="https://vk.com/dabud1dabuda1">click!</a></li>  
+  <li>Discord: <i>Копчёный#6586</i></li>
+  <li>Discord-server: <a href="https://discord.gg/DUMjMjq">click!</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/goga_pukpuk/">click!</a></li>
+</ul>
