@@ -2,15 +2,15 @@
 
 🪶 I'm a beginner android developer
 
-<br/>
-I've studied such programming languages as:
+
+### I've studied such programming languages as:
 <ul>
   <li>Python <i>(discrod.py)</i></li>
   <li>Java <i>(android)</i></li>
   <li>Kotlin <i>(android)</i> <strong>using currently</strong></li>
 </ul>
-<br/>
-Links:
+
+### Links:
 <ul>
   <li>Discord: <i>Копчёный#6586</i></li>
   <li>Discord-server: <a href="https://discord.gg/DUMjMjq">click!</a></li>
