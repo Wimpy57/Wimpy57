@@ -12,7 +12,6 @@ I've studied such programming languages as:
 <br/>
 Links:
 <ul>
-  <li>Vk: <a href="https://vk.com/dabud1dabuda1">click!</a></li>  
   <li>Discord: <i>Копчёный#6586</i></li>
   <li>Discord-server: <a href="https://discord.gg/DUMjMjq">click!</a></li>
   <li>Instagram: <a href="https://www.instagram.com/goga_pukpuk/">click!</a></li>
